@@ -8,6 +8,14 @@ I'm **Manvendra** (`max` online).
 - Expanding into AI and Machine Learning
 - Passionate about understanding how software works from hardware to intelligence
 
+## Upcoming Projects 
+- shell
+- text editor
+- memory allocator
+- ai desktop companion
+
+progress: did some work on the companion but currently learning cpp
+
 ## Kit
 
 <div align="center">
