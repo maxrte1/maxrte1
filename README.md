@@ -32,28 +32,3 @@ progress: did some work on the companion but currently learning cpp
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
-
-## Connect
-
-<div align="center">
-
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0xmaxw08)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@0xmaxw08)
-
-</div>
-
-## GitHub Stats
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=0xmaxw08&hide_border=true&border_radius=0&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
-    <img
-      width="51%"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=0xmaxw08&hide_border=true&theme=default"
-      alt="GitHub Streak Stats" />
-  </picture>
-</p>
-
-
